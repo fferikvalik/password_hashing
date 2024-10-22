@@ -33,5 +33,5 @@ The project uses the following Python packages:
 1. **Clone the repository**:
 
    ```bash
-   git clone [https://github.com/your-username/password-manager-demo.git](https://github.com/fferikvalik/password_hashing.git)
+   git clone https://github.com/fferikvalik/password_hashing.git
    cd password_hashing
